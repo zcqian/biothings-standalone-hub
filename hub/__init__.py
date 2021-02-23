@@ -1,0 +1,3 @@
+__gitversion__ = "$Id: d9424c14c561920dc60f76eb95769a4a5e5af1e9 $"
+# don't use key expansion in a regex for instance...
+__version__ = __gitversion__.replace("$","").replace("Id","").replace(":","").strip()
