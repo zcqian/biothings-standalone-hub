@@ -153,3 +153,5 @@ RELEASE_CONFIG = {
         }
 
 
+HUB_PASSWD = {"guest":"9RKfd8gDuNf0Q"}
+
